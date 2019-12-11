@@ -1,8 +1,7 @@
+Ensimmäinen tekstifile:
+
 testi
 puppua
-
 roskaa
-
 huuhaa
-
 muutos
