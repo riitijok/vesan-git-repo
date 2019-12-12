@@ -27,3 +27,5 @@ stages:
         dockerfile: '**/Dockerfile'
         tags: |
           $(tag)
+
+    - task: PublishBuildArtifacts@1
